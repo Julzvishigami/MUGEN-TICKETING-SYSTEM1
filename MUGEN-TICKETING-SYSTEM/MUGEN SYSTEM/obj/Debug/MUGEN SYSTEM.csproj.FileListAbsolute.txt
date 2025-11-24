@@ -1,0 +1,20 @@
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGENTICKETSYSTEM.LogInForm.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form10.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.StaffDashboard.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form3.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.AdminDashboard.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form5.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form6.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form7.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form8.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Form9.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN_SYSTEM.Properties.Resources.resources
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.csproj.GenerateResource.cache
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\bin\Debug\MUGEN SYSTEM.exe.config
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\bin\Debug\MUGEN SYSTEM.exe
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\bin\Debug\MUGEN SYSTEM.pdb
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.exe
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.pdb
+C:\Users\Julzvishigami\MUGEN-TICKETING-SYSTEM\MUGEN SYSTEM\obj\Debug\MUGEN SYSTEM.exe.config
